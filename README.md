@@ -102,7 +102,7 @@ Run this quick mental checklist on the repository itself:
 
 1. Does `README.md` sit at the root, under 2 MB, with no competing `.github/README.md`?
 2. Is `screenshot.png` a real capture of the published repo page, showing the repo name and the opening of the guide?
-3. Do all three badge URLs point at `takuminoda/makefun-guide` with no `{{...}}` placeholder left behind?
+3. Do all three badge URLs point at `takuminoda/makefun-guide` with the owner and repository filled in, not left as template text?
 4. Is the referral code present as plain text, not only inside a sentence fragment?
 5. Did the last push happen before you copied the commit SHA into the submit command?
 
